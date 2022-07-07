@@ -132,7 +132,7 @@
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(./images/img-menu.jpg);
+    url("../images/img-menu.jpg");
   background-position: 50% 50%;
   background-repeat: no-repeat;
   height: 600px;
